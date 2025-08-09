@@ -1,0 +1,19 @@
+{
+  "name": "21.-make-html-page",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r                 <img style={{ position: \"relative\" ,opacity: 1 ,borderRadius: \"10px\" ,overflow: \"hidden\" , marginTop:\"20px\" , marginBottom: \"20px\"}}\r                 src=\"https://media.giphy.com/media/ylyUQmwRhTyxiD5CFO/giphy.gif\"\r                />\r             </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "livereload": "^0.10.1"
+  }
+}
