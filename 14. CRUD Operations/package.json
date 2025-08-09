@@ -1,0 +1,12 @@
+{
+  "name": "14.-crud-operations",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r       <img style={{ position: \"relative\" ,opacity: 1 ,borderRadius: \"10px\" ,overflow: \"hidden\" , marginTop:\"20px\" , marginBottom: \"20px\"}}\r           src=\"https://media.giphy.com/media/l4KhMR4p58zFZZlSg/giphy.gif\"/>\r     </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC"
+}
