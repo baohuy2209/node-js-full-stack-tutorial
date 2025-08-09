@@ -1,0 +1,13 @@
+{
+  "name": "05.-fundamentals-and-features",
+  "version": "1.0.0",
+  "description": "Nodejs",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC"
+}
